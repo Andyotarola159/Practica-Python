@@ -1,9 +1,7 @@
-milista=["a","b","c","d","e","a"]
-mitubla=tuple(milista)
+dia_semana={"Lunes":"Dia1","Martes":"Dia2","Miercoles":"Dia3"}
 
-la, lb, lc, ld, le, lf=mitubla
- 
-print(ld,lb,le)
+del dia_semana["Lunes"]
+print(dia_semana)
 
 
 
@@ -18,6 +16,52 @@ print(ld,lb,le)
 
 
 
+
+
+
+
+
+
+
+#mitupla=("Alemania","Francia","Peru","España")
+
+
+#midiccionario={mitupla[0]:"Berlin",mitupla[1]:"Paris",mitupla[2]:"Lima",mitupla[3]:"Madrid"}
+#poniendo una tubla en el diccionario
+
+#print(midiccionario.keys())  #muestra las claves de  los diccionarios
+#print(midiccionario.values()) #muestra los valores de losn diccionarios
+
+#midiccionario["Italia"]="Lisboa"  #Sirve para agregar un elemento
+
+#del midiccionario["Peru"]    #sirve para eliminar una elemento del diccionario 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#la, lb, lc, ld, le, lf=mitubla #cada variable almacena el valor de la tupla en que este ordenada 
 
 #mitupla=tuple(milista)  #convertir una lista en una tupla
 #print(mitupla.count("a")) #sirve para saber cuentas veces se repite un elemento
