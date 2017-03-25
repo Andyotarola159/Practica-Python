@@ -22,6 +22,77 @@
 
 
 
+#def suma(num1,num2):
+#	if num1>num2:
+#		return num1
+#	else:
+#		return num2
+
+
+#print(suma(4,5))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#def dia_semana(*dias):
+#	print(dias)            #agregar en una funcion una tupla
+#dia_semana("Lunes","Marter","Miercoles")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#edad=0
+#while edad<=20:
+
+#	if edad==15:
+#	   continue
+#      break   $rompe el cliclo
+#	print("tiene:" + str(edad))
+#	edad=aas
+	
 
 
 #edad=15
