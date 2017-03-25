@@ -1,7 +1,98 @@
-dia_semana={"Lunes":"Dia1","Martes":"Dia2","Miercoles":"Dia3"}
 
-del dia_semana["Lunes"]
-print(dia_semana)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#edad=15
+
+#if edad>=0 and edad<18:
+#	print("niño")
+#elif edad>17 and edad<28:
+#	print("joven")
+#elif edad>28 and edad<60:
+#	print("adulto")
+#else:
+#	print("viejo")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#lista=["a","b","c"]
+#lista2=["a","B","c"]
+
+#x = lista==lista2
+
+#print(x)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#dia_semana={"Lunes":"Dia1","Martes":"Dia2","Miercoles":"Dia3"}
+
+#del dia_semana["Lunes"]
+#print(dia_semana)
 
 
 
