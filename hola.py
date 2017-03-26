@@ -22,6 +22,46 @@
 
 
 
+
+#CLASES Y OBJETOS
+"""class Humano:
+	def __init__(self,edad,fisico):
+
+		self.edad=15
+		self.fisico=fisico
+
+	def hablar(self,mensaje):
+		print(mensaje)
+
+
+	def correr(self,km):
+		print(km)
+		
+pedro=Humano(15,"flaco")
+raul=Humano(30,"gordo")
+
+pedro.correr("30km")
+print(pedro.edad)
+print(pedro.fisico)
+raul.hablar("hola mundo")
+print(raul.fisico)
+raul.correr("40km")"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #def suma(num1,num2):
 #	if num1>num2:
 #		return num1
